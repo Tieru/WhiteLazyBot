@@ -1,0 +1,7 @@
+start.welcome=Добро пожаловать!
+error.unknown=Неизвестная ошибка
+trigger.add.error.unauthorized=Недостаточно прав для этого действия
+trigger.add.error.no_cron=Не указано время запуска
+trigger.add.error.invalid_cron=Некорректный формат cron
+trigger.add.error.no_text=Не указан текст триггера
+trigger.add.success=Триггер добавлен
